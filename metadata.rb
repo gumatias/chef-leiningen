@@ -1,3 +1,4 @@
+name             "leiningen"
 maintainer       "Runa Inc."
 maintainer_email "ops@runa.com"
 license          "Apache 2.0"
